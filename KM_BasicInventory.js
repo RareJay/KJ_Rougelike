@@ -1,8 +1,8 @@
 /*:
-@plugindesc KM Crafting System
-@author https://github.com/RareJay
+@plugindesc Basic Inventory System
+@author Kuol Marial
 
-Based on: armornick SimpleCraftingSystem
+Based on: https://github.com/armornick
 
 ----------------------------------------------------
 
